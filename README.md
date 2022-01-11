@@ -9,6 +9,10 @@ Step 5. You can manage the data in the software! Have fun!
 # How to contact the DESIRE2022 team.
 We're working on the contact feature. Please wait for this to be done and follow the website's blogs to tell when we add a UPDATE to the software and your DATA
 
+# How to add DATA
+
+This link will take you to the DATA ADDER! https://forms.gle/wkBfhqDGs77Svgyi8
+
 # Final Messages
 Thank you for using the desire2022 software. Goodbye!
 
